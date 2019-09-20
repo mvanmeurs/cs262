@@ -1,0 +1,61 @@
+Please answer following questions:
+
+	1. Demographics
+
+		Junior, CS + X and my X is business ( I was an IS major)
+
+		CS 112: A-
+		CS 212: taking right now
+
+	2. Technical
+
+		Java applications
+			I took AP computer science Java in High school. I didn't take CS 108 because of that.
+			
+			I was the head programmer and electrical person for GHHS FIRST Robotics team 3546 my senior year after Andrew, the senior during my
+			Junior year left. I programmed the robot in Java. https://github.com/FRC3546/Competition-Robot-2017
+
+
+		Portable device applications (Android? iOS?)
+			none
+		GPS-based systems
+			none
+		Database-driven web sites or services
+			none
+		If so, what (briefly) have you done?
+
+		Have you used any of the following tools:
+
+		Slack
+			We used Slack at work about 4 years ago, havent used it since
+		Trello
+			Havent' used it
+		Git and/or GitHub
+			Used it for writing and debugging robot code for FIRST Robotics with about 3 laptops. Also used Github for a Vector Calculus program
+			I wrote first semester freshman year for fun. It's a pretty basic program, but it was a good learning experience becuase
+			I expanded on templates and classes that I learned in class with Professor Adams. https://github.com/mvanmeurs/MatrixOperations
+
+		If so, what have you used an how (briefly) have you used it?
+
+		Do you have any Android devices and, if so, what sort of devices are they and what version of Android do they run?
+		If you’d prefer to develop on another portable platform, indicate which one and whether you have a device that runs it.
+			I have a Pixel 3 running the latest version of Android 9 with security patch from August 1 in case you were interested :)
+
+		What project or projects would you like to work on. Include at least one tractable project, say from the previous lab exercise or from the suggested projects in the team project specification.
+		If you’d like, talk to other students or use the Moodle forum to form groups interested in particular project ideas.
+			I'm interested in working with Catherine DeJager if I can't do my book or landlord project, but I haven't seen many project ideas yet on the forum.
+
+	3. Personality
+
+		What is your big-five personality type? (See the reading guide for how to determine this. Please, give the five trait values only.)
+			O = .54
+			C = .6
+			E = .375
+			A = .54
+			N = .54
+
+		Is there anyone you’d really like (or not like!) to work with? We’ll do our best to honor your requests here.
+			nope
+
+	Is there anything else you’d like us to know about you before assigning you to a project team?
+		none

@@ -1,0 +1,22 @@
+Exercise 1.1
+	1. So I was kind of dumb and completely forgot that you mentioned that the book
+	application was already mentioned in class, but if I can't do the book swap becaue 
+	it's already been done, what about something similar to that,
+	but for matching up landlords and students looking to rent. Landlords can put in their
+	house for rent, how many people can rent, rent cost, weather utilities are included and
+	so on, and students can query for places to rent in the app. Filters can be included in the
+	app to help students rule out criteria that are dealbreakers for them and likewise with
+	landlords if they so desire.
+
+	2. So I work for Event technical services. I run sound and lighting for many events
+	including Dance Guild and SAO concerts. My boss has a google sheet that he uses with all of
+	the events on campus and we sign up for shifts in meetings. If we are put on a shift,
+	he enters our initials into the cell of the event. When I sign up for shifts, I need to enter
+	them into my calendar manually. What if there was a way to scan the sheet for the shifts I'm
+	on (I know this isn't an app per se), and it automatically adds the event to my google
+	calendar. But what if there was an app like google calendar, that had all of my shifts laid
+	out, but it also had the event sheets and documentation built in to the "calendar event". 
+	Event coordinators fill out event sheets to inform the tech assigned to the shift regarding
+	the technical needs of the shift, and I always have a hard time finding the sheets because of
+	bugs in the android google drive app. I know this isnt a great idea, but this is what I can
+	think of.
