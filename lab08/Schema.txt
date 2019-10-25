@@ -1,0 +1,11 @@
+Original Schema:
+Player(ID, emailAddress, name)
+PlayerGame(gameID, playerID, score)
+Game (ID, time)
+
+Modified Schema:
+Player(ID, emailAddress, name)
+PlayerGame(gameID, playerID, score, cash, location)
+Game (ID, time, inprogress)
+Property (ID, name, color, price, rent, rentHouse1, rentHouse2, rentHouse3, rentHouse4, rentHotel, houseCost)
+GameProperty (gameID, propertyID, playerID, houses, hotel, mortgaged)
