@@ -1,0 +1,12 @@
+Answer the following questions with respect both to the Web API you used in homework 2 and to the database you built in this homework.
+
+Is the service RESTful? If not, why not? If so, what key features make it RESTful.
+	I think Firebase, at least how we have it implemented it, is RESTful. It's honestly hard to tell
+	by looking at the code what is going on (since Elizabeth and Nathan have done all the firebase
+	stuff). But hidden beneath all of the methods in our main.dart file, I can control click on the
+	updateData method for example, and it seems to me like it invokes some sort of PUT function. I
+	could be wrong though.
+
+What endpoints implement actions that are idempotent? nullipotent?
+	Idempotent: GET, PUT, DELETE
+	Nullipotent: POST
