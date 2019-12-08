@@ -1,0 +1,15 @@
+Lab13
+
+User Story: As a student, I want to easily record if my meal is vegetarian or vegan and which dining hall it was in such that I can track my meals for goals and competitions.
+
+To record a meal:
+
+Go to the home page of the app.
+Tap on Eat.
+To change the type of meal you wish to record, tap Vegetarian, Vegan, or Neither.
+To change the location of the meal you wish to record, tap the drop down and select either Commons, Knollcrest, Home, or Other.
+
+Flesch-Kincaid scores:
+	My Instructions: Grade - A, Score - 3.8
+	CS Home Page: Grade - E, Score - 14.8
+	Mail Merge: Grade - A, Score - 7.4
